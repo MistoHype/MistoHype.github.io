@@ -2,12 +2,12 @@
 
 <!DOCTYPE html>
 <html>
-  
-  
-  
-  
-  
 <head>
+  <style>
+body {
+  background-color: #f0deac;
+}
+</style>
 <title>Misto Hype</title>
 </head>
 <body>
