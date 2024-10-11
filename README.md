@@ -8,10 +8,10 @@
   
   
 <head>
-<title>Page Title</title>
+<title>Misto Hype</title>
 </head>
 <body>
-<h1 style="background-color:Tomato;">Tomato</h1>
+<h1 style="background-color:Tomato;">Misto Hype</h1>
 
 
 <h1>My First Heading</h1>
