@@ -1,6 +1,3 @@
-# MistoHype.github.io
-
-<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -14,7 +11,7 @@ body {
 <h1 style="background-color:Tomato;">Misto Hype</h1>
 
 
-<h1>My First Heading</h1>
+<center><h1>My First Heading</h1><center>
 <p>My first paragraph.</p>
 
 </body>
