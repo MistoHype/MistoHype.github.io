@@ -2,7 +2,7 @@
 <head>
   <style>
 
-  backgroud-color{#f0deac}
+body {background-color: #f0deac;}
 
 body {
   margin: 0;
