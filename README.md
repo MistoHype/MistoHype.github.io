@@ -1,8 +1,25 @@
 <html>
 <head>
   <style>
+  
+  
+  
+    div.a {
+  position: relative;
+  top: 20px;
+  right: -60;
+} 
+    div.relative {
+  position: relative;
+   top: 30px;
+  right: -150;
+  width: 400px;
+  height: 200px;
+ }
 
-body {background-color: #f0deac;}
+
+
+body {background-color: #fffae0;}
 
 body {
   margin: 0;
@@ -12,8 +29,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 30%;
-  background-color: #f1f1f1;
+  width: 25%;
+  background-color: #fef3c3;
   position: fixed;
   left: -40px;
   top: 0px;
@@ -24,22 +41,24 @@ ul {
 li a {
   display: block;
   color: #000;
-  padding: 8px 16px;
+  padding: 25px 16px;
   text-decoration: none;
 }
 
 li a.active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #f0deac;
+  color: black;
 }
 
 li a:hover:not(.active) {
-  background-color: #555;
+  background-color: tomato;
   color: white;
 }
 </style>
 </head>
 <body>
+
+
 
 <ul>
   <li><center><a class="active" href="#home">Home</a></center></li>
@@ -49,11 +68,13 @@ li a:hover:not(.active) {
 </ul>
   
   <center>
-  <h1>Misto Hype</h1>
+ <div class="a"> <h1>Misto Hype</h1></div>
   </center>
+  
+<div class="relative"><p> Este site é dedicado para mostrar o que nós iremos vender no nosso trabalho escolar, na feira de empreendedorismo.</p>
 
-<p>Este site é dedicado para mostras o que nós iremos vender no nosso trabalho escolar, na feira de empreendedorismo.</p>
-<p>Trabalho este que esta sendo organizado pela professora Renata e pelo professor Idalberto e será realizada no dia 18 de outubro, uma sexta feira.</p> 
-
+<p> Trabalho este que esta sendo organizado pela professora Renata e pelo professor Idalberto e será realizada no dia 18 de outubro, uma sexta feira.</p> 
+</div>
 </body>
 </html>
+
