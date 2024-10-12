@@ -14,7 +14,7 @@ ul {
   padding: 0;
   width: 25%;
   background-color: #f1f1f1;
-  position: relative;
+  position: fixed;
   left: -80px;
   height: 100%;
   overflow: auto;
