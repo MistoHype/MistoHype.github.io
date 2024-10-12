@@ -6,7 +6,7 @@ body {
 }
 
 #rcorners1 {
-  border-radius: 25px;
+ border-radius: 15px 50px;
    background-color:Tomato;;
   padding: 20px; 
   width: 200px;
@@ -14,10 +14,10 @@ body {
 }
     
 </style>
-<title>aaaaaa</title>
+<title>Misto Hype</title>
 </head>
 <body>
-  <div id="example1">
+  <div id="rcorners1">
 <center><h1 style="background-color:Tomato;">Misto Hype</h1></center>
 
 
