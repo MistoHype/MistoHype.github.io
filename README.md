@@ -15,7 +15,8 @@ ul {
   width: 25%;
   background-color: #f1f1f1;
   position: fixed;
-  left: -80px;
+  left: -50px;
+  top: 0px;
   height: 100%;
   overflow: auto;
 }
