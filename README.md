@@ -3,7 +3,7 @@
   <style>
 
 body {
-  margin: -100;
+  margin: 0;
 }
 
 ul {
@@ -19,7 +19,7 @@ ul {
 
 li a {
   display: block;
-  color: #000;
+  color: #f0deac;
   padding: 8px 16px;
   text-decoration: none;
 }
