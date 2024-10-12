@@ -4,15 +4,15 @@
 body {
   background-color: #f0deac;
 }
-    #example1 {
-  border: 2px solid red;
-  background: url(paper.gif);
-  padding: 10px;
-  border-top-left-radius: 20%;
-      border-top-right-radius: 20%;
-      border-low-left-radius: 20%;
-      border-low-right-radius: 20%;
+
+#rcorners1 {
+  border-radius: 25px;
+   background-color:Tomato;;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
 }
+    
 </style>
 <title>aaaaaa</title>
 </head>
