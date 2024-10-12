@@ -18,10 +18,7 @@ body {
 <body>
   <div id="rcorners1">
 <center><h1 style="background-color:Tomato;">Misto Hype</h1></center>
-
-
-  <p>Here, the border-top-left-radius property is set to 40%. Also notice that the background is clipped at the border.</p>
-</div>
+  </div>
 
 <center><h1>My First Heading</h1></center>
 <p>My first paragraph.</p>
