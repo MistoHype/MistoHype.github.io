@@ -17,7 +17,7 @@ body {
 </head>
 <body>
   <div id="rcorners1">
-<center><h1 style="background-color:Tomato;">Misto Hype</h1></center>
+<center><h1>Misto Hype</h1></center>
   </div>
 
 <center><h1>My First Heading</h1></center>
