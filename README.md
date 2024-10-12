@@ -2,12 +2,19 @@
 <head>
   <style>
 
+body {
+  margin: 0;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 25%;
   background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
 }
 
 li a {
@@ -17,22 +24,21 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color on hover */
-li a:hover {
-  background-color: #555;
+li a.active {
+  background-color: #04AA6D;
   color: white;
 }
 
-    
-    body {
-  background-color: #f0deac;
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
 }
 </style>
 </head>
 <body>
 
 <ul>
-  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
