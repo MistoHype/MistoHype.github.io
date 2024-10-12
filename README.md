@@ -5,7 +5,7 @@ body {
   background-color: #f0deac;
 }
 </style>
-<title>Misto Hype</title>
+
 </head>
 <body>
 <center><h1 style="background-color:Tomato;">Misto Hype</h1></center>
