@@ -14,7 +14,6 @@ body {
 }
     
 </style>
-<title>Misto Hype</title>
 </head>
 <body>
   <div id="rcorners1">
