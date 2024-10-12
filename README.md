@@ -11,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: #f0deac;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -19,7 +19,7 @@ ul {
 
 li a {
   display: block;
-  color: #f0deac;
+  color: #000;
   padding: 8px 16px;
   text-decoration: none;
 }
