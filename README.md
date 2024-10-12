@@ -2,6 +2,8 @@
 <head>
   <style>
 
+  backgroud-color{#f0deac}
+
 body {
   margin: 0;
 }
@@ -11,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: #f0deac;
+  background-color: #f1f1f1;
   position: fixed;
   height: 100%;
   overflow: auto;
